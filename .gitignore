@@ -1,2 +1,6 @@
-*/Bin/
-*/obj/
+.vs
+.vscode
+.git
+.config
+**/*/obj
+**/*/bin
